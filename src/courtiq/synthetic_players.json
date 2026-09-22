@@ -1,0 +1,5 @@
+[
+  {"name": "Fictional Player A", "scores": {"era_performance": 95, "playoffs": 90, "accolades": 92, "championships": 85, "longevity": 74}},
+  {"name": "Fictional Player B", "scores": {"era_performance": 89, "playoffs": 91, "accolades": 85, "championships": 75, "longevity": 99}},
+  {"name": "Fictional Player C", "scores": {"era_performance": 92, "playoffs": 78, "accolades": 90, "championships": 95, "longevity": 80}}
+]
