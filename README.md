@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/32519045/README.md)
-# 🏀 CourtIQ — The GOAT Index
+# 🏀 GOAT-IQ Analysis - The GOAT Index
 
 **Can basketball greatness across eras be quantified transparently?** CourtIQ is a portfolio project exploring that question through an inspectable scoring model and an interactive prototype.
 
