@@ -69,9 +69,6 @@ print(result.contributions)
 
 ## Product documentation
 
-- [Product brief](docs/PRODUCT_BRIEF.md)
-- [Methodology and limitations](docs/METHODOLO[METHODOLOGY.md](https://github.com/user-attachments/files/32519297/METHODOLOGY.md)GY.md)
-- [Roadmap](docs/ROADMAP.md)
 [PRODUCT_BRIEF.md](https://github.com/user-attachments/files/32519281/PRODUCT_BRIEF.md)
 [ROADMAP.md](https://github.com/user-attachments/files/32519299/ROADMAP.md)
 # CourtIQ — Eight-week delivery roadmap
